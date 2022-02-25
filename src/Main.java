@@ -7,5 +7,8 @@ public class Main {
     }
 
 
+    public static void doSomething(){
+        // todo
+    }
 
 }
